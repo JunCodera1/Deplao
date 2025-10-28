@@ -63,7 +63,7 @@ CMakeLists.txt.user*
 
 # MinGW generated files
 *.Debug
-*.Release
+*.Releasex
 
 # Python byte code
 *.pyc

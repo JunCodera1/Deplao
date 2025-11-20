@@ -1,2 +1,3 @@
+requests
+python-socketio[client]
 PySide6
-pytest
